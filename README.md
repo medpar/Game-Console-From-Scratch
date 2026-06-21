@@ -1,4 +1,4 @@
-# Portable Retro Game Console (LPC2106)
+# Portable Retro Gaming Console (LPC2106)
 
 A handheld retro game console designed and built from scratch: from the schematic and a custom
 PCB, through firmware written in C, to a 3D‑printed enclosure — running a hand‑coded port of the
